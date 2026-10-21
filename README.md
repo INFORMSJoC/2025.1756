@@ -39,9 +39,7 @@ Two approaches are studied: single-policy reinforcement learning (SPRL), which j
 
 ## Requirement
 
-The code requires Python and the packages used by the simulation environment and reinforcement learning implementation.
-
-Please refer to the dependency files included in this repository for the exact package versions and installation instructions.
+The code requires Python and the packages listed in requirements.txt. Please refer to this file for the required dependencies and package versions.
 
 ## Data
 
