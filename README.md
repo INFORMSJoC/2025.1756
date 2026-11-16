@@ -1,8 +1,9 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# CacheTest
+# Single- vs. Dual-Policy Reinforcement Learning for Dynamic Bike Rebalancing
 
-This archive is distributed in association with the INFORMS Journal on Computing under the MIT License.
+This archive is distributed in association with the [INFORMS Journal on
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 The software and data in this repository are a snapshot of the software and data used in the research reported in the paper Single- and Dual-Policy Reinforcement Learning for Dynamic Bike Rebalancing by Jiaqi Liang, Defeng Liu, Sanjay Dominik Jena, Andrea Lodi, and Thibaut Vidal. The repository contains the implementation and data used for the computational experiments reported in the paper.
 
